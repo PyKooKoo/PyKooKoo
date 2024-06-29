@@ -17,10 +17,6 @@ I am beginner in Python<br>Exploring the code with Coffee<br>Teacher with passio
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PyKooKoo&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=PyKooKoo&icon=7&color=5)](https://visitcount.itsvg.in)
 
